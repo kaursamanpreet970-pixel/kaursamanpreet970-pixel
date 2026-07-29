@@ -11,7 +11,7 @@ Hi 👋, I'm Samanpreet Kaur<br><br>🎓 B.Sc. Information Technology at PTU, Pu
 # 🚀 Projects:
 
 ### 💼✨ HR ✨💼 Employee Analytics Dashboard — Power BI
-> Power bi HR-analytics data-visualization attrition-analysis DAX people-analytics workforce-analytics business-intelligence.[Project Link](https://github.com/Arjun-Maurya-78/HR-Employee-Analytics-Dashboard-Power-BI)
+> Power bi HR-analytics data-visualization attrition-analysis DAX people-analytics workforce-analytics business-intelligence.[Project Link](https://github.com/kaursamanpreet970-pixel/FIFA-2026)
 
 ### 🍕 Pizza Hut Sales Analysis (SQL Project)
 > SQL analysis of a year of Pizza Hut sales data — 21K+ orders analyzed with MySQL to uncover revenue trends, top-selling pizzas, and order patterns using joins, subqueries, and window functions.[Project Link](https://github.com/Arjun-Maurya-78/Pizza-hut-sql-project)
