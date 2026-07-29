@@ -2,7 +2,7 @@
 Hi 👋, I'm Samanpreet Kaur<br><br>🎓 B.Sc. Information Technology at PTU, Punjab<br>📊 Aspiring Data Analyst | Turning data into insights<br>🚀 Passionate about dashboards, analytics & storytelling with data<br>🔍 Solving real-world problems using data | Building dashboards in Power BI & Tableau<br>🐍 Learning Python (Pandas, NumPy, Matplotlib) and SQL | Strong in Excel & Data Visualization<br>🎯 Goal: Data Analyst in a product-based company
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-maurya78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samanpreet-kaur-5a8b26375)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunmaurya3837@gmail.com)
 
 # 💻 Tech Stack:
