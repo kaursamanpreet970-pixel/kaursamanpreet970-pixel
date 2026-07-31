@@ -17,7 +17,7 @@ Hi 👋, I'm Samanpreet Kaur<br><br><br>📊  | Driving Data-Backed Decisions<br
 An end-to-end analytics project that cleans, models, and visualizes 12 FIFA World Cup 2026 datasets in Excel/Power Query and Power BI to deliver a 5-page interactive dashboard covering tournament, team, match, player, and venue performance.[Project Link](https://github.com/kaursamanpreet970-pixel/FIFA-2026--excel-and-power-bi)
 
 ### 📊MEDICO Hospital Dasboard(Tableau)
-> An end-to-end Tableau BI system that analyzes patient admissions, doctor performance, treatment costs, and hospital operations across a 10-hospital chain to support data-driven healthcare management decisions. [Project Link](https://github.com/Arjun-Maurya-78/IPL-cricket-analytics)
+> An end-to-end Tableau BI system that analyzes patient admissions, doctor performance, treatment costs, and hospital operations across a 10-hospital chain to support data-driven healthcare management decisions. [Project Link](https://github.com/kaursamanpreet970-pixel/MEDICO-Hospital-Dashboard-Tableau)
 
 ### 🛒E-Commerce-Dashboard(Power BI)
 > Interactive Power BI dashboard analyzing e-commerce sales, returns & payment trends across 150 orders, 9 categories & 4 regions — with DAX-powered KPIs and multi-page visual storytelling.[Project Link](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard)
