@@ -22,8 +22,8 @@ Hi 👋, I'm Samanpreet Kaur<br><br><br>📊  | Driving Data-Backed Decisions<br
 ### 📊HR Analytics Dashboard(Power BI)
 >This project transforms raw HR employee data into a single-page, decision-ready Power BI dashboard. It covers 1,470 employees and surfaces attrition trends across education field, gender, age group, salary band, tenure, and job role — all backed by interactive filters/slicers so HR stakeholders can drill down into the exact segment they care about.[Project Link](https://github.com/kaursamanpreet970-pixel/HR-Analytics-Project-powerBI)
 
-### 📊 Marketing Campaign Performance Analytics Dashboard — Power BI
-> Interactive Power BI dashboard analyzing marketing campaign performance across channels, segments, and time — revealing ROI drivers and budget optimization opportunities.[Project Link](https://github.com/Arjun-Maurya-78/Marketing_Campaign_Analysis)
+### 📊 NETFLIX shows analysis Dashboard — Power BI
+> An interactive Power BI dashboard analyzing 8,800+ Netflix titles to uncover trends in content type, genre, country of origin, and release year.[Project Link](https://github.com/kaursamanpreet970-pixel/NETFLIX-Dashboard-Power-bi-.git)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
