@@ -6,7 +6,7 @@ Hi 👋, I'm Samanpreet Kaur<br><br><br>📊  | Driving Data-Backed Decisions<br
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaursamanpreet970@gmail.com)
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # 🚀 Projects:
 
@@ -24,11 +24,6 @@ Hi 👋, I'm Samanpreet Kaur<br><br><br>📊  | Driving Data-Backed Decisions<br
 
 ### 📊 NETFLIX shows analysis Dashboard — Power BI
 > An interactive Power BI dashboard analyzing 8,800+ Netflix titles to uncover trends in content type, genre, country of origin, and release year.[Project Link](https://github.com/kaursamanpreet970-pixel/NETFLIX-Dashboard-Power-bi-.git)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Arjun-Maurya-78&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 > ⭐ *"Without data, you're just another person with an opinion."*
