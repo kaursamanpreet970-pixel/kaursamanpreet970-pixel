@@ -12,7 +12,7 @@ Hi 👋, I'm Samanpreet Kaur<br><br><br>📊  | Driving Data-Backed Decisions<br
 ### 🍕 Fast Food in India Dashboard — Power BI
 > An end-to-end Power BI dashboard that cleans a deliberately messy 200-row fast food dataset and turns it into a 3-page interactive analytics report covering revenue, customer behaviour, and delivery performance across 12 major Indian fast food chains.[Project Link](https://github.com/kaursamanpreet970-pixel/FIFA-2026)
 
-### 📊FIFA World Cup 2026 Dashboard(Excel and Poer BI)
+### 📊FIFA World Cup 2026 Dashboard(Excel and Power BI)
 > An end-to-end analytics project that cleans, models, and visualizes 12 FIFA World Cup 2026 datasets in Excel/Power Query and Power BI to deliver a 5-page interactive dashboard covering tournament, team, match, player, and venue performance.[Project Link](https://github.com/kaursamanpreet970-pixel/FIFA-2026--excel-and-power-bi)
 
 ### 🏥MEDICO Hospital Dasboard(Tableau)
