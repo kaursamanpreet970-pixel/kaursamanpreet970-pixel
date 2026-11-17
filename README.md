@@ -27,12 +27,20 @@ Hi 👋, I'm Samanpreet Kaur<br><br><br>📊  | Driving Data-Backed Decisions<br
 ### 📊 Bank Marketing Campaign Analysis
 > Exploratory data analysis of 41,176 telemarketing calls from a Portuguese bank to uncover which customers, contact strategies and campaign patterns lead to term deposit subscriptions.[Project Link](https://github.com/kaursamanpreet970-pixel/Bank-Marketing-Campaign-Analysis-EDA)
 
+### 📊 Transaction Data Cleaning(Excel Power Query)
+> Transformed 14,038 messy, single-column transaction text records into a clean, analysis-ready table of four typed columns using Excel Power Query.[Project Link](https://github.com/kaursamanpreet970-pixel/Data-cleaning-Practice1-EXCEL-POWER-QUERY-)
 
 ### 📊HR Analytics Dashboard(Power BI)
->This project transforms raw HR employee data into a single-page, decision-ready Power BI dashboard. It covers 1,470 employees and surfaces attrition trends across education field, gender, age group, salary band, tenure, and job role — all backed by interactive filters/slicers so HR stakeholders can drill down into the exact segment they care about.[Project Link](https://github.com/kaursamanpreet970-pixel/HR-Analytics-Project-powerBI)
+> This project transforms raw HR employee data into a single-page, decision-ready Power BI dashboard. It covers 1,470 employees and surfaces attrition trends across education field, gender, age group, salary band, tenure, and job role — all backed by interactive filters/slicers so HR stakeholders can drill down into the exact segment they care about.[Project Link](https://github.com/kaursamanpreet970-pixel/HR-Analytics-Project-powerBI)
+
+### 📊Employee Attendance Data Cleaning(Excel Power Query)
+> Converted 1,050 pipe-delimited, inconsistently formatted employee attendance records into a clean, correctly typed table using Excel Power Query.[Project Link](https://github.com/kaursamanpreet970-pixel/Data-cleaning-Practice2-EXCEL-POWER-QUERY-)
 
 ### 📊 NETFLIX shows analysis Dashboard — Power BI
 > An interactive Power BI dashboard analyzing 8,800+ Netflix titles to uncover trends in content type, genre, country of origin, and release year.[Project Link](https://github.com/kaursamanpreet970-pixel/NETFLIX-Dashboard-Power-bi-.git)
+
+### 📊Sales Data Transformation(Excel Power Query)
+> Reshaped 4,930 transaction-level sales records into a 72-row by 12-month summary of sales per sales representative using Excel Power Query (month extraction, pivot, and aggregation).[Project Link](https://github.com/kaursamanpreet970-pixel/Data-cleaning-Practice3-EXCEL-POWER-QUERY-)
 
 ---
 > ⭐ *"Without data, you're just another person with an opinion."*
